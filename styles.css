@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
- .container{
+ .holder{
         display: flex;
         flex-direction:row-reverse;
         justify-content: space-between;
@@ -23,7 +23,7 @@
         background-color:blue;
         color: black;
     }
-    .container-2{
+    .holder-2{
         
         position: absolute;
         top: 90px;
